@@ -10,7 +10,7 @@ The saved password of user is in md5 encryption for privacy purposes and cannot 
 There are two css files, one for login and register page and another for the website.
 All the given php files are in use and linked with each other.
 
-This is a fully responsive website.
+This is a fully responsive website. 
 
 
 Youtube Link - https://youtu.be/3uBsksWT5lU
