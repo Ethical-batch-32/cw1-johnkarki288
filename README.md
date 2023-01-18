@@ -11,6 +11,7 @@ There are two css files, one for login and register page and another for the web
 All the given php files are in use and linked with each other.
 
 This is a fully responsive website. 
+If you want the whole full codes with images. You can get it in hospital.zip file.
 
 
 Youtube Link - https://youtu.be/3uBsksWT5lU
